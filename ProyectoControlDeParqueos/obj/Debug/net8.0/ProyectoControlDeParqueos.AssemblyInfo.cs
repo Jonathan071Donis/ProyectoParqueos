@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProyectoControlDeParqueos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+81ffedf4f0b44a49f7fa6a56e9423cbafc638ff7")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProyectoControlDeParqueos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProyectoControlDeParqueos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

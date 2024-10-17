@@ -577,3 +577,4 @@ D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\Pro
 D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
 D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
 D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\obj\Debug\net8.0\ProyectoControlDeParqueos.sourcelink.json

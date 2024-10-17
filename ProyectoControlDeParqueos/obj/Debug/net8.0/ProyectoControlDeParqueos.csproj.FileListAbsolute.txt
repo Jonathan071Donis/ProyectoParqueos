@@ -1,0 +1,579 @@
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\appsettings.Development.json
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\appsettings.json
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\ProyectoControlDeParqueos.staticwebassets.runtime.json
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\ProyectoControlDeParqueos.exe
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\ProyectoControlDeParqueos.deps.json
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\ProyectoControlDeParqueos.runtimeconfig.json
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\ProyectoControlDeParqueos.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\ProyectoControlDeParqueos.pdb
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Azure.Core.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Azure.Identity.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Humanizer.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\System.CodeDom.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\System.Memory.Data.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\System.Text.Json.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\obj\Debug\net8.0\ProyectoControlDeParqueos.csproj.AssemblyReference.cache
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\obj\Debug\net8.0\ProyectoControlDeParqueos.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\obj\Debug\net8.0\ProyectoControlDeParqueos.AssemblyInfoInputs.cache
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\obj\Debug\net8.0\ProyectoControlDeParqueos.AssemblyInfo.cs
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\obj\Debug\net8.0\ProyectoControlDeParqueos.csproj.CoreCompileInputs.cache
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\obj\Debug\net8.0\ProyectoControlDeParqueos.MvcApplicationPartsAssemblyInfo.cs
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\obj\Debug\net8.0\ProyectoControlDeParqueos.MvcApplicationPartsAssemblyInfo.cache
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\obj\Debug\net8.0\ProyectoControlDeParqueos.RazorAssemblyInfo.cache
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\obj\Debug\net8.0\ProyectoControlDeParqueos.RazorAssemblyInfo.cs
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\obj\Debug\net8.0\staticwebassets.build.json
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\obj\Debug\net8.0\staticwebassets.development.json
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\obj\Debug\net8.0\staticwebassets\msbuild.ProyectoControlDeParqueos.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\obj\Debug\net8.0\staticwebassets\msbuild.build.ProyectoControlDeParqueos.props
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoControlDeParqueos.props
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProyectoControlDeParqueos.props
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\obj\Debug\net8.0\staticwebassets.pack.json
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\obj\Debug\net8.0\scopedcss\bundle\ProyectoControlDeParqueos.styles.css
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\obj\Debug\net8.0\scopedcss\projectbundle\ProyectoControlDeParqueos.bundle.scp.css
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\obj\Debug\net8.0\Proyecto.4F09C02D.Up2Date
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\obj\Debug\net8.0\ProyectoControlDeParqueos.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\obj\Debug\net8.0\refint\ProyectoControlDeParqueos.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\obj\Debug\net8.0\ProyectoControlDeParqueos.pdb
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\obj\Debug\net8.0\ProyectoControlDeParqueos.genruntimeconfig.cache
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\obj\Debug\net8.0\ref\ProyectoControlDeParqueos.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.Build.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\NuGet.Common.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\ProyectoSeminario\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\appsettings.Development.json
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\appsettings.json
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\ProyectoControlDeParqueos.staticwebassets.runtime.json
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\ProyectoControlDeParqueos.exe
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\ProyectoControlDeParqueos.deps.json
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\ProyectoControlDeParqueos.runtimeconfig.json
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\ProyectoControlDeParqueos.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\ProyectoControlDeParqueos.pdb
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Azure.Core.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Azure.Identity.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Humanizer.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.Build.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\NuGet.Common.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\System.CodeDom.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\obj\Debug\net8.0\ProyectoControlDeParqueos.csproj.AssemblyReference.cache
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\obj\Debug\net8.0\ProyectoControlDeParqueos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\obj\Debug\net8.0\ProyectoControlDeParqueos.AssemblyInfoInputs.cache
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\obj\Debug\net8.0\ProyectoControlDeParqueos.AssemblyInfo.cs
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\obj\Debug\net8.0\ProyectoControlDeParqueos.csproj.CoreCompileInputs.cache
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\obj\Debug\net8.0\ProyectoControlDeParqueos.MvcApplicationPartsAssemblyInfo.cs
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\obj\Debug\net8.0\ProyectoControlDeParqueos.MvcApplicationPartsAssemblyInfo.cache
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\obj\Debug\net8.0\ProyectoControlDeParqueos.RazorAssemblyInfo.cache
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\obj\Debug\net8.0\ProyectoControlDeParqueos.RazorAssemblyInfo.cs
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\obj\Debug\net8.0\staticwebassets.build.json
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\obj\Debug\net8.0\staticwebassets.development.json
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\obj\Debug\net8.0\staticwebassets\msbuild.ProyectoControlDeParqueos.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\obj\Debug\net8.0\staticwebassets\msbuild.build.ProyectoControlDeParqueos.props
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoControlDeParqueos.props
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProyectoControlDeParqueos.props
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\obj\Debug\net8.0\scopedcss\bundle\ProyectoControlDeParqueos.styles.css
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\obj\Debug\net8.0\scopedcss\projectbundle\ProyectoControlDeParqueos.bundle.scp.css
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\obj\Debug\net8.0\Proyecto.4F09C02D.Up2Date
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\obj\Debug\net8.0\ProyectoControlDeParqueos.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\obj\Debug\net8.0\refint\ProyectoControlDeParqueos.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\obj\Debug\net8.0\ProyectoControlDeParqueos.pdb
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\obj\Debug\net8.0\ProyectoControlDeParqueos.genruntimeconfig.cache
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\obj\Debug\net8.0\ref\ProyectoControlDeParqueos.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Segundo semestre 2024\Proyecto de graduacion ll\ProyectoControlDeParqueos\ProyectoControlDeParqueos\ProyectoControlDeParqueos\bin\Debug\net8.0\System.Formats.Asn1.dll

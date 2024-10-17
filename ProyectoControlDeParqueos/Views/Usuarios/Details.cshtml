@@ -1,0 +1,52 @@
+﻿@model ProyectoControlDeParqueos.Models.Usuario
+
+@{
+    // ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Detalles</h1>
+
+<div class="card">
+    <div class="card-header">
+        <h4>Usuario</h4>
+    </div>
+    <div class="card-body">
+        <dl class="row">
+            <dt class="col-sm-3">
+                @Html.DisplayNameFor(model => model.nombreUsuario)
+            </dt>
+            <dd class="col-sm-9">
+                @Html.DisplayFor(model => model.nombreUsuario)
+            </dd>
+            <dt class="col-sm-3">
+                @Html.DisplayNameFor(model => model.email)
+            </dt>
+            <dd class="col-sm-9">
+                @Html.DisplayFor(model => model.email)
+            </dd>
+            <dt class="col-sm-3">
+                @Html.DisplayNameFor(model => model.password)
+            </dt>
+            <dd class="col-sm-9">
+                @Html.DisplayFor(model => model.password) <!-- Considera ocultar la contraseña o mostrarla como puntos -->
+            </dd>
+            <dt class="col-sm-3">
+                @Html.DisplayNameFor(model => model.fechaCreacion)
+            </dt>
+            <dd class="col-sm-9">
+                @Html.DisplayFor(model => model.fechaCreacion)
+            </dd>
+            <dt class="col-sm-3">
+                @Html.DisplayNameFor(model => model.estado)
+            </dt>
+            <dd class="col-sm-9">
+                @Html.DisplayFor(model => model.estado)
+            </dd>
+        </dl>
+    </div>
+    <div class="card-footer">
+        <a asp-action="Edit" asp-route-id="@Model?.idUsuario" class="btn btn-warning">Edit</a>
+        <a asp-action="Index" class="btn btn-secondary">Regresar</a>
+    </div>
+</div>

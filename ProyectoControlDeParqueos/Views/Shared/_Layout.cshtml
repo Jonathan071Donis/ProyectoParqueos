@@ -1,0 +1,126 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - ProyectoControlDeParqueos</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+
+    <style>
+        .navbar {
+            background-color: #7FFFD4; /* Aguamarina */
+        }
+
+        .dropdown-menu {
+            background-color: #7FFFD4; /* Aguamarina */
+        }
+
+        .dropdown-item {
+            color: black; /* Letras negras en el menú desplegable */
+        }
+
+            .dropdown-item:hover {
+                background-color: #AEEEEE; /* Color de fondo al pasar el mouse (opcional) */
+            }
+
+        /* Estilos personalizados para el pie de página */
+        .footer-custom {
+            display: flex;
+            align-items: center;
+            justify-content: center; /* Alinea el contenido en el centro */
+            background-color: #f8f9fa; /* Color de fondo claro */
+            padding: 20px 0;
+            margin-top: 20px;
+            position: relative; /* Permite ajustes en la posición */
+            bottom: 20px; /* Sube el pie de página */
+        }
+
+            .footer-custom .logo {
+                width: 15%; /* Ajustado el tamaño del logo a 15% */
+                height: auto; /* Mantiene la proporción del logo */
+                margin-right: 10px; /* Espacio entre el logo y el texto */
+            }
+
+            .footer-custom .text {
+                color: black; /* Color del texto */
+                font-size: 16px;
+                text-align: center; /* Centra el texto */
+            }
+
+            .footer-custom a {
+                color: black; /* El enlace "Privacy" en negro */
+                text-decoration: none; /* Sin subrayado */
+            }
+
+                .footer-custom a:hover {
+                    text-decoration: underline; /* Subrayado al pasar el ratón */
+                }
+    </style>
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-light box-shadow mb-3">
+            <div class="container-fluid">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">ProyectoControlDeParqueos</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                    <ul class="navbar-nav ms-auto">
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                Menú de Modelos
+                            </a>
+                            <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdownMenuLink">
+                                <li><a class="dropdown-item" asp-controller="Usuarios" asp-action="Index" class="menu-item">Usuarios</a></li>
+                                <li><a class="dropdown-item" asp-controller="Tarifas" asp-action="Index" class="menu-item">Tarifas</a></li>
+                                <li><a class="dropdown-item" asp-controller="Parqueos" asp-action="Index" class="menu-item">Parqueos</a></li>
+                                <li><a class="dropdown-item" asp-controller="RegistroVehiculoes" asp-action="Index" class="menu-item">Registro Vehículos</a></li>
+                                <li><a class="dropdown-item" asp-controller="ReporteIngresos" asp-action="Index" class="menu-item">Reporte Ingresos</a></li>
+                                <li><a class="dropdown-item" asp-controller="Reporte" asp-action="Index" class="menu-item">Reporte General</a></li>
+                                <li><a class="dropdown-item" asp-controller="ReporteVehiculos" asp-action="Index" class="menu-item">Reporte de Vehículos Registrados</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <!-- Pie de página personalizado -->
+    <footer class="footer-custom text-muted">
+        <!-- Imagen del logo de la UMG -->
+        <img src="https://www.sicultura.gob.gt/wp-content/uploads/2023/11/Foto-recuperada-del-sitio-web-de-la-UMG.jpg" alt="Logo UMG" class="logo">
+        <div class="text">
+            &copy; 2024 - ProyectoControlDeParqueos - <a href="/Privacy">Privacy</a>
+        </div>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="https://cdn.datatables.net/2.1.8/js/dataTables.min.js" asp-append-version="true"></script>
+    <script src="https://cdn.datatables.net/2.1.8/js/dataTables.bootstrap5.min.js" asp-append-version="true"></script>
+
+    <script>
+        $(document).ready(function () {
+            $('#tablajs').DataTable();
+
+            // Ocultar el menú desplegable al hacer clic en un elemento del menú
+            $('.menu-item').on('click', function () {
+                $('.collapse').collapse('hide'); // Ocultar el menú
+            });
+        });
+    </script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

@@ -1,0 +1,1227 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|d:\\segundo semestre 2024\\proyecto de graduacion ll\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|solutionrelative:proyectocontroldeparqueos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|d:\\segundo semestre 2024\\proyecto de graduacion ll\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|solutionrelative:proyectocontroldeparqueos\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|d:\\segundo semestre 2024\\proyecto de graduacion ll\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|solutionrelative:proyectocontroldeparqueos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|d:\\segundo semestre 2024\\proyecto de graduacion ll\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\proyectocontroldeparqueos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|solutionrelative:proyectocontroldeparqueos\\proyectocontroldeparqueos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|d:\\segundo semestre 2024\\proyecto de graduacion ll\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|solutionrelative:proyectocontroldeparqueos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|d:\\segundo semestre 2024\\proyecto de graduacion ll\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\views\\reporteingresos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|solutionrelative:proyectocontroldeparqueos\\views\\reporteingresos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|d:\\segundo semestre 2024\\proyecto de graduacion ll\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\views\\reporte\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|solutionrelative:proyectocontroldeparqueos\\views\\reporte\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|d:\\segundo semestre 2024\\proyecto de graduacion ll\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\views\\tarifas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|solutionrelative:proyectocontroldeparqueos\\views\\tarifas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|d:\\segundo semestre 2024\\proyecto de graduacion ll\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\views\\registrovehiculoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|solutionrelative:proyectocontroldeparqueos\\views\\registrovehiculoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|d:\\segundo semestre 2024\\proyecto de graduacion ll\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\views\\reportevehiculos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|solutionrelative:proyectocontroldeparqueos\\views\\reportevehiculos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|d:\\segundo semestre 2024\\proyecto de graduacion ll\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|solutionrelative:proyectocontroldeparqueos\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|d:\\segundo semestre 2024\\proyecto de graduacion ll\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|solutionrelative:proyectocontroldeparqueos\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|d:\\segundo semestre 2024\\proyecto de graduacion ll\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\models\\tarifa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|solutionrelative:proyectocontroldeparqueos\\models\\tarifa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|d:\\segundo semestre 2024\\proyecto de graduacion ll\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\models\\reportevehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|solutionrelative:proyectocontroldeparqueos\\models\\reportevehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|d:\\segundo semestre 2024\\proyecto de graduacion ll\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\models\\reportevehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|solutionrelative:proyectocontroldeparqueos\\models\\reportevehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|d:\\segundo semestre 2024\\proyecto de graduacion ll\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\models\\reporteingresos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|solutionrelative:proyectocontroldeparqueos\\models\\reporteingresos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|d:\\segundo semestre 2024\\proyecto de graduacion ll\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\models\\reportegeneral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|solutionrelative:proyectocontroldeparqueos\\models\\reportegeneral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|d:\\segundo semestre 2024\\proyecto de graduacion ll\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\models\\registrovehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|solutionrelative:proyectocontroldeparqueos\\models\\registrovehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|d:\\segundo semestre 2024\\proyecto de graduacion ll\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|solutionrelative:proyectocontroldeparqueos\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|d:\\segundo semestre 2024\\proyecto de graduacion ll\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\models\\parqueo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|solutionrelative:proyectocontroldeparqueos\\models\\parqueo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|d:\\segundo semestre 2024\\proyecto de graduacion ll\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\models\\logindbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|solutionrelative:proyectocontroldeparqueos\\models\\logindbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|d:\\segundo semestre 2024\\proyecto de graduacion ll\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|solutionrelative:proyectocontroldeparqueos\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|d:\\segundo semestre 2024\\proyecto de graduacion ll\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\models\\applicationusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|solutionrelative:proyectocontroldeparqueos\\models\\applicationusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|d:\\segundo semestre 2024\\proyecto de graduacion ll\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|solutionrelative:proyectocontroldeparqueos\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|d:\\segundo semestre 2024\\proyecto de graduacion ll\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\controllers\\tarifascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|solutionrelative:proyectocontroldeparqueos\\controllers\\tarifascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|d:\\segundo semestre 2024\\proyecto de graduacion ll\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\controllers\\reportevehiculoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|solutionrelative:proyectocontroldeparqueos\\controllers\\reportevehiculoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|d:\\segundo semestre 2024\\proyecto de graduacion ll\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\controllers\\reportevehiculocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|solutionrelative:proyectocontroldeparqueos\\controllers\\reportevehiculocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|d:\\segundo semestre 2024\\proyecto de graduacion ll\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\controllers\\reporteingresoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|solutionrelative:proyectocontroldeparqueos\\controllers\\reporteingresoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|d:\\segundo semestre 2024\\proyecto de graduacion ll\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\controllers\\reportecontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|solutionrelative:proyectocontroldeparqueos\\controllers\\reportecontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|d:\\segundo semestre 2024\\proyecto de graduacion ll\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\controllers\\registrovehiculoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|solutionrelative:proyectocontroldeparqueos\\controllers\\registrovehiculoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|d:\\segundo semestre 2024\\proyecto de graduacion ll\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|solutionrelative:proyectocontroldeparqueos\\controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|d:\\segundo semestre 2024\\proyecto de graduacion ll\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\controllers\\parqueoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|solutionrelative:proyectocontroldeparqueos\\controllers\\parqueoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|d:\\segundo semestre 2024\\proyecto de graduacion ll\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|solutionrelative:proyectocontroldeparqueos\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|d:\\segundo semestre 2024\\proyecto de graduacion ll\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|solutionrelative:proyectocontroldeparqueos\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|d:\\segundo semestre 2024\\proyecto de graduacion ll\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\views\\registrovehiculoes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|solutionrelative:proyectocontroldeparqueos\\views\\registrovehiculoes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|d:\\segundo semestre 2024\\proyecto de graduacion ll\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|solutionrelative:proyectocontroldeparqueos\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|d:\\segundo semestre 2024\\proyecto de graduacion ll\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|solutionrelative:proyectocontroldeparqueos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|d:\\segundo semestre 2024\\proyecto de graduacion ll\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|solutionrelative:proyectocontroldeparqueos\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|d:\\segundo semestre 2024\\proyecto de graduacion ll\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|solutionrelative:proyectocontroldeparqueos\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|d:\\segundo semestre 2024\\proyecto de graduacion ll\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|solutionrelative:proyectocontroldeparqueos\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|d:\\segundo semestre 2024\\proyecto de graduacion ll\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|solutionrelative:proyectocontroldeparqueos\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|d:\\segundo semestre 2024\\proyecto de graduacion ll\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|solutionrelative:proyectocontroldeparqueos\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|d:\\segundo semestre 2024\\proyecto de graduacion ll\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|solutionrelative:proyectocontroldeparqueos\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|d:\\segundo semestre 2024\\proyecto de graduacion ll\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|solutionrelative:proyectocontroldeparqueos\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|d:\\segundo semestre 2024\\proyecto de graduacion ll\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|solutionrelative:proyectocontroldeparqueos\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|d:\\segundo semestre 2024\\proyecto de graduacion ll\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|solutionrelative:proyectocontroldeparqueos\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|d:\\segundo semestre 2024\\proyecto de graduacion ll\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|solutionrelative:proyectocontroldeparqueos\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|d:\\segundo semestre 2024\\proyecto de graduacion ll\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\views\\parqueos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|solutionrelative:proyectocontroldeparqueos\\views\\parqueos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|d:\\segundo semestre 2024\\proyecto de graduacion ll\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\views\\parqueos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|solutionrelative:proyectocontroldeparqueos\\views\\parqueos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|d:\\segundo semestre 2024\\proyecto de graduacion ll\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\views\\parqueos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|solutionrelative:proyectocontroldeparqueos\\views\\parqueos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|d:\\segundo semestre 2024\\proyecto de graduacion ll\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\views\\parqueos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|solutionrelative:proyectocontroldeparqueos\\views\\parqueos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|d:\\segundo semestre 2024\\proyecto de graduacion ll\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\views\\parqueos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|solutionrelative:proyectocontroldeparqueos\\views\\parqueos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|d:\\segundo semestre 2024\\proyecto de graduacion ll\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\views\\registrovehiculoes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|solutionrelative:proyectocontroldeparqueos\\views\\registrovehiculoes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|d:\\segundo semestre 2024\\proyecto de graduacion ll\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\views\\registrovehiculoes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|solutionrelative:proyectocontroldeparqueos\\views\\registrovehiculoes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|d:\\segundo semestre 2024\\proyecto de graduacion ll\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\views\\registrovehiculoes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|solutionrelative:proyectocontroldeparqueos\\views\\registrovehiculoes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|d:\\segundo semestre 2024\\proyecto de graduacion ll\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\views\\tarifas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|solutionrelative:proyectocontroldeparqueos\\views\\tarifas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|d:\\segundo semestre 2024\\proyecto de graduacion ll\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\views\\tarifas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|solutionrelative:proyectocontroldeparqueos\\views\\tarifas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|d:\\segundo semestre 2024\\proyecto de graduacion ll\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\views\\tarifas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|solutionrelative:proyectocontroldeparqueos\\views\\tarifas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|d:\\segundo semestre 2024\\proyecto de graduacion ll\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\views\\tarifas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|solutionrelative:proyectocontroldeparqueos\\views\\tarifas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|d:\\segundo semestre 2024\\proyecto de graduacion ll\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\views\\usuarios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|solutionrelative:proyectocontroldeparqueos\\views\\usuarios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|d:\\segundo semestre 2024\\proyecto de graduacion ll\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\views\\usuarios\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|solutionrelative:proyectocontroldeparqueos\\views\\usuarios\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|d:\\segundo semestre 2024\\proyecto de graduacion ll\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\views\\usuarios\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|solutionrelative:proyectocontroldeparqueos\\views\\usuarios\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|d:\\segundo semestre 2024\\proyecto de graduacion ll\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\views\\usuarios\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|solutionrelative:proyectocontroldeparqueos\\views\\usuarios\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|d:\\segundo semestre 2024\\proyecto de graduacion ll\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|solutionrelative:proyectocontroldeparqueos\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|d:\\segundo semestre 2024\\proyecto de graduacion ll\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|solutionrelative:proyectocontroldeparqueos\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|d:\\segundo semestre 2024\\proyecto de graduacion ll\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\migrations\\20240922212613_addmiprimermodelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|solutionrelative:proyectocontroldeparqueos\\migrations\\20240922212613_addmiprimermodelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|d:\\segundo semestre 2024\\proyecto de graduacion ll\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|solutionrelative:proyectocontroldeparqueos\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|d:\\segundo semestre 2024\\proyecto de graduacion ll\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|solutionrelative:proyectocontroldeparqueos\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|d:\\segundo semestre 2024\\proyecto de graduacion ll\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\migrations\\20240825211606_logininit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|solutionrelative:proyectocontroldeparqueos\\migrations\\20240825211606_logininit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|d:\\segundo semestre 2024\\proyecto de graduacion ll\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\migrations\\20240922212945_addmisegundomodelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|solutionrelative:proyectocontroldeparqueos\\migrations\\20240922212945_addmisegundomodelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|d:\\segundo semestre 2024\\proyecto de graduacion ll\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\migrations\\20241014202812_tarifa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|solutionrelative:proyectocontroldeparqueos\\migrations\\20241014202812_tarifa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|d:\\segundo semestre 2024\\proyecto de graduacion ll\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\migrations\\20241014202558_registrovehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|solutionrelative:proyectocontroldeparqueos\\migrations\\20241014202558_registrovehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|d:\\segundo semestre 2024\\proyecto de graduacion ll\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\migrations\\20241014202345_parqueos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|solutionrelative:proyectocontroldeparqueos\\migrations\\20241014202345_parqueos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|d:\\segundo semestre 2024\\proyecto de graduacion ll\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\proyectocontroldeparqueos\\migrations\\20241014202054_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4CFC4E-BC74-4F40-B509-E54D52F7A268}|ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj|solutionrelative:proyectocontroldeparqueos\\migrations\\20241014202054_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 43,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProyectoControlDeParqueos.csproj",
+              "DocumentMoniker": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj",
+              "RelativeDocumentMoniker": "ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj",
+              "ToolTip": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj",
+              "RelativeToolTip": "ProyectoControlDeParqueos\\ProyectoControlDeParqueos.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-25T20:45:30.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1215,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\appsettings.json",
+              "RelativeDocumentMoniker": "ProyectoControlDeParqueos\\appsettings.json",
+              "ToolTip": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\appsettings.json",
+              "RelativeToolTip": "ProyectoControlDeParqueos\\appsettings.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-25T20:34:53.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ProyectoControlDeParqueos\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ProyectoControlDeParqueos\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T03:02:13.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProyectoControlDeParqueos\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProyectoControlDeParqueos\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAH4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T20:37:25.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProyectoControlDeParqueos\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ProyectoControlDeParqueos\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAmwIwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T21:02:31.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Views\\RegistroVehiculoes\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProyectoControlDeParqueos\\Views\\RegistroVehiculoes\\Index.cshtml",
+              "ToolTip": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Views\\RegistroVehiculoes\\Index.cshtml",
+              "RelativeToolTip": "ProyectoControlDeParqueos\\Views\\RegistroVehiculoes\\Index.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAmwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T22:31:01.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Views\\Tarifas\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProyectoControlDeParqueos\\Views\\Tarifas\\Index.cshtml",
+              "ToolTip": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Views\\Tarifas\\Index.cshtml",
+              "RelativeToolTip": "ProyectoControlDeParqueos\\Views\\Tarifas\\Index.cshtml",
+              "ViewState": "AQIAABYAAAAAAAAAAAAmwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T22:34:23.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Views\\Reporte\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProyectoControlDeParqueos\\Views\\Reporte\\Index.cshtml",
+              "ToolTip": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Views\\Reporte\\Index.cshtml",
+              "RelativeToolTip": "ProyectoControlDeParqueos\\Views\\Reporte\\Index.cshtml",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAmwFYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T22:30:45.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "ProyectoControlDeParqueos\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "ProyectoControlDeParqueos\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T20:59:37.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Views\\ReporteIngresos\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProyectoControlDeParqueos\\Views\\ReporteIngresos\\Index.cshtml",
+              "ToolTip": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Views\\ReporteIngresos\\Index.cshtml",
+              "RelativeToolTip": "ProyectoControlDeParqueos\\Views\\ReporteIngresos\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T20:36:43.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Views\\ReporteVehiculos\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProyectoControlDeParqueos\\Views\\ReporteVehiculos\\Index.cshtml",
+              "ToolTip": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Views\\ReporteVehiculos\\Index.cshtml",
+              "RelativeToolTip": "ProyectoControlDeParqueos\\Views\\ReporteVehiculos\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T20:30:42.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "ProyectoControlDeParqueos\\Models\\Usuario.cs",
+              "ToolTip": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Models\\Usuario.cs",
+              "RelativeToolTip": "ProyectoControlDeParqueos\\Models\\Usuario.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAiwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T20:19:21.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Tarifa.cs",
+              "DocumentMoniker": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Models\\Tarifa.cs",
+              "RelativeDocumentMoniker": "ProyectoControlDeParqueos\\Models\\Tarifa.cs",
+              "ToolTip": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Models\\Tarifa.cs",
+              "RelativeToolTip": "ProyectoControlDeParqueos\\Models\\Tarifa.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAiwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T20:27:24.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ReporteVehiculos.cs",
+              "DocumentMoniker": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Models\\ReporteVehiculos.cs",
+              "RelativeDocumentMoniker": "ProyectoControlDeParqueos\\Models\\ReporteVehiculos.cs",
+              "ToolTip": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Models\\ReporteVehiculos.cs",
+              "RelativeToolTip": "ProyectoControlDeParqueos\\Models\\ReporteVehiculos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T20:28:48.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReporteVehiculo.cs",
+              "DocumentMoniker": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Models\\ReporteVehiculo.cs",
+              "RelativeDocumentMoniker": "ProyectoControlDeParqueos\\Models\\ReporteVehiculo.cs",
+              "ToolTip": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Models\\ReporteVehiculo.cs",
+              "RelativeToolTip": "ProyectoControlDeParqueos\\Models\\ReporteVehiculo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T20:59:47.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ReporteIngresos.cs",
+              "DocumentMoniker": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Models\\ReporteIngresos.cs",
+              "RelativeDocumentMoniker": "ProyectoControlDeParqueos\\Models\\ReporteIngresos.cs",
+              "ToolTip": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Models\\ReporteIngresos.cs",
+              "RelativeToolTip": "ProyectoControlDeParqueos\\Models\\ReporteIngresos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T20:31:54.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ReporteGeneral.cs",
+              "DocumentMoniker": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Models\\ReporteGeneral.cs",
+              "RelativeDocumentMoniker": "ProyectoControlDeParqueos\\Models\\ReporteGeneral.cs",
+              "ToolTip": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Models\\ReporteGeneral.cs",
+              "RelativeToolTip": "ProyectoControlDeParqueos\\Models\\ReporteGeneral.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAiwEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T22:21:43.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RegistroVehiculo.cs",
+              "DocumentMoniker": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Models\\RegistroVehiculo.cs",
+              "RelativeDocumentMoniker": "ProyectoControlDeParqueos\\Models\\RegistroVehiculo.cs",
+              "ToolTip": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Models\\RegistroVehiculo.cs",
+              "RelativeToolTip": "ProyectoControlDeParqueos\\Models\\RegistroVehiculo.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T20:25:05.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "persona.cs",
+              "DocumentMoniker": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Models\\persona.cs",
+              "RelativeDocumentMoniker": "ProyectoControlDeParqueos\\Models\\persona.cs",
+              "ToolTip": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Models\\persona.cs",
+              "RelativeToolTip": "ProyectoControlDeParqueos\\Models\\persona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T21:13:12.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Parqueo.cs",
+              "DocumentMoniker": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Models\\Parqueo.cs",
+              "RelativeDocumentMoniker": "ProyectoControlDeParqueos\\Models\\Parqueo.cs",
+              "ToolTip": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Models\\Parqueo.cs",
+              "RelativeToolTip": "ProyectoControlDeParqueos\\Models\\Parqueo.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAiwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T20:22:41.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginDbContext.cs",
+              "DocumentMoniker": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Models\\LoginDbContext.cs",
+              "RelativeDocumentMoniker": "ProyectoControlDeParqueos\\Models\\LoginDbContext.cs",
+              "ToolTip": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Models\\LoginDbContext.cs",
+              "RelativeToolTip": "ProyectoControlDeParqueos\\Models\\LoginDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T20:51:38.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ProyectoControlDeParqueos\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ProyectoControlDeParqueos\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T01:29:07.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "ProyectoControlDeParqueos\\Controllers\\UsuariosController.cs",
+              "ToolTip": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "ProyectoControlDeParqueos\\Controllers\\UsuariosController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAiwB4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T20:22:15.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TarifasController.cs",
+              "DocumentMoniker": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Controllers\\TarifasController.cs",
+              "RelativeDocumentMoniker": "ProyectoControlDeParqueos\\Controllers\\TarifasController.cs",
+              "ToolTip": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Controllers\\TarifasController.cs",
+              "RelativeToolTip": "ProyectoControlDeParqueos\\Controllers\\TarifasController.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAGoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T20:28:58.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ReporteVehiculosController.cs",
+              "DocumentMoniker": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Controllers\\ReporteVehiculosController.cs",
+              "RelativeDocumentMoniker": "ProyectoControlDeParqueos\\Controllers\\ReporteVehiculosController.cs",
+              "ToolTip": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Controllers\\ReporteVehiculosController.cs",
+              "RelativeToolTip": "ProyectoControlDeParqueos\\Controllers\\ReporteVehiculosController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T20:29:28.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ReporteVehiculoController.cs",
+              "DocumentMoniker": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Controllers\\ReporteVehiculoController.cs",
+              "RelativeDocumentMoniker": "ProyectoControlDeParqueos\\Controllers\\ReporteVehiculoController.cs",
+              "ToolTip": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Controllers\\ReporteVehiculoController.cs",
+              "RelativeToolTip": "ProyectoControlDeParqueos\\Controllers\\ReporteVehiculoController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAiwCMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T21:00:35.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ApplicationUsers.cs",
+              "DocumentMoniker": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Models\\ApplicationUsers.cs",
+              "RelativeDocumentMoniker": "ProyectoControlDeParqueos\\Models\\ApplicationUsers.cs",
+              "ToolTip": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Models\\ApplicationUsers.cs",
+              "RelativeToolTip": "ProyectoControlDeParqueos\\Models\\ApplicationUsers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T21:10:03.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ReporteIngresosController.cs",
+              "DocumentMoniker": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Controllers\\ReporteIngresosController.cs",
+              "RelativeDocumentMoniker": "ProyectoControlDeParqueos\\Controllers\\ReporteIngresosController.cs",
+              "ToolTip": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Controllers\\ReporteIngresosController.cs",
+              "RelativeToolTip": "ProyectoControlDeParqueos\\Controllers\\ReporteIngresosController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAiwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T20:34:50.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ReporteController .cs",
+              "DocumentMoniker": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Controllers\\ReporteController .cs",
+              "RelativeDocumentMoniker": "ProyectoControlDeParqueos\\Controllers\\ReporteController .cs",
+              "ToolTip": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Controllers\\ReporteController .cs",
+              "RelativeToolTip": "ProyectoControlDeParqueos\\Controllers\\ReporteController .cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAiwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T22:29:41.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RegistroVehiculoesController.cs",
+              "DocumentMoniker": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Controllers\\RegistroVehiculoesController.cs",
+              "RelativeDocumentMoniker": "ProyectoControlDeParqueos\\Controllers\\RegistroVehiculoesController.cs",
+              "ToolTip": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Controllers\\RegistroVehiculoesController.cs",
+              "RelativeToolTip": "ProyectoControlDeParqueos\\Controllers\\RegistroVehiculoesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T20:24:35.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "personasController.cs",
+              "DocumentMoniker": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Controllers\\personasController.cs",
+              "RelativeDocumentMoniker": "ProyectoControlDeParqueos\\Controllers\\personasController.cs",
+              "ToolTip": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Controllers\\personasController.cs",
+              "RelativeToolTip": "ProyectoControlDeParqueos\\Controllers\\personasController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T21:38:06.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ParqueosController.cs",
+              "DocumentMoniker": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Controllers\\ParqueosController.cs",
+              "RelativeDocumentMoniker": "ProyectoControlDeParqueos\\Controllers\\ParqueosController.cs",
+              "ToolTip": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Controllers\\ParqueosController.cs",
+              "RelativeToolTip": "ProyectoControlDeParqueos\\Controllers\\ParqueosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAI4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T20:24:35.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ProyectoControlDeParqueos\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ProyectoControlDeParqueos\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAiwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T20:58:24.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Views\\Usuarios\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProyectoControlDeParqueos\\Views\\Usuarios\\Index.cshtml",
+              "ToolTip": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Views\\Usuarios\\Index.cshtml",
+              "RelativeToolTip": "ProyectoControlDeParqueos\\Views\\Usuarios\\Index.cshtml",
+              "ViewState": "AQIAADQAAAAAAAAAAAAiwEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T22:34:34.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Views\\RegistroVehiculoes\\Create.cshtml",
+              "RelativeDocumentMoniker": "ProyectoControlDeParqueos\\Views\\RegistroVehiculoes\\Create.cshtml",
+              "ToolTip": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Views\\RegistroVehiculoes\\Create.cshtml",
+              "RelativeToolTip": "ProyectoControlDeParqueos\\Views\\RegistroVehiculoes\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T01:39:14.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ProyectoControlDeParqueos\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "ProyectoControlDeParqueos\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T20:25:14.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Program.cs",
+              "RelativeDocumentMoniker": "ProyectoControlDeParqueos\\Program.cs",
+              "ToolTip": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Program.cs",
+              "RelativeToolTip": "ProyectoControlDeParqueos\\Program.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAiwDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T20:59:39.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "ProyectoControlDeParqueos\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "ProyectoControlDeParqueos\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T20:37:27.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "ProyectoControlDeParqueos\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "ProyectoControlDeParqueos\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T21:08:48.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "ProyectoControlDeParqueos\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "ProyectoControlDeParqueos\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAJcAAAAAAAAAAAAIwKEAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T21:39:30.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "ProyectoControlDeParqueos\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "ProyectoControlDeParqueos\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T20:25:20.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ProyectoControlDeParqueos\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "ProyectoControlDeParqueos\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T21:09:24.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "ProyectoControlDeParqueos\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "ProyectoControlDeParqueos\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-01T21:31:24.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "ProyectoControlDeParqueos\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "ProyectoControlDeParqueos\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-15T20:59:20.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "ProyectoControlDeParqueos\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "ProyectoControlDeParqueos\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T20:59:35.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ForgotPassword.cshtml",
+              "DocumentMoniker": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "RelativeDocumentMoniker": "ProyectoControlDeParqueos\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "ToolTip": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "RelativeToolTip": "ProyectoControlDeParqueos\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T20:39:08.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ProyectoControlDeParqueos\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeToolTip": "ProyectoControlDeParqueos\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T20:39:11.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Views\\Parqueos\\Create.cshtml",
+              "RelativeDocumentMoniker": "ProyectoControlDeParqueos\\Views\\Parqueos\\Create.cshtml",
+              "ToolTip": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Views\\Parqueos\\Create.cshtml",
+              "RelativeToolTip": "ProyectoControlDeParqueos\\Views\\Parqueos\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T03:58:23.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Views\\Tarifas\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ProyectoControlDeParqueos\\Views\\Tarifas\\Edit.cshtml",
+              "ToolTip": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Views\\Tarifas\\Edit.cshtml",
+              "RelativeToolTip": "ProyectoControlDeParqueos\\Views\\Tarifas\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T01:25:57.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Views\\RegistroVehiculoes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ProyectoControlDeParqueos\\Views\\RegistroVehiculoes\\Edit.cshtml",
+              "ToolTip": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Views\\RegistroVehiculoes\\Edit.cshtml",
+              "RelativeToolTip": "ProyectoControlDeParqueos\\Views\\RegistroVehiculoes\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T01:35:39.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Views\\Parqueos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ProyectoControlDeParqueos\\Views\\Parqueos\\Edit.cshtml",
+              "ToolTip": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Views\\Parqueos\\Edit.cshtml",
+              "RelativeToolTip": "ProyectoControlDeParqueos\\Views\\Parqueos\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T03:52:51.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Views\\Parqueos\\Details.cshtml",
+              "RelativeDocumentMoniker": "ProyectoControlDeParqueos\\Views\\Parqueos\\Details.cshtml",
+              "ToolTip": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Views\\Parqueos\\Details.cshtml",
+              "RelativeToolTip": "ProyectoControlDeParqueos\\Views\\Parqueos\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T03:54:06.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Views\\Parqueos\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ProyectoControlDeParqueos\\Views\\Parqueos\\Delete.cshtml",
+              "ToolTip": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Views\\Parqueos\\Delete.cshtml",
+              "RelativeToolTip": "ProyectoControlDeParqueos\\Views\\Parqueos\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T03:57:19.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Views\\RegistroVehiculoes\\Details.cshtml",
+              "RelativeDocumentMoniker": "ProyectoControlDeParqueos\\Views\\RegistroVehiculoes\\Details.cshtml",
+              "ToolTip": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Views\\RegistroVehiculoes\\Details.cshtml",
+              "RelativeToolTip": "ProyectoControlDeParqueos\\Views\\RegistroVehiculoes\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T01:36:44.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Views\\Parqueos\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProyectoControlDeParqueos\\Views\\Parqueos\\Index.cshtml",
+              "ToolTip": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Views\\Parqueos\\Index.cshtml",
+              "RelativeToolTip": "ProyectoControlDeParqueos\\Views\\Parqueos\\Index.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAABBwBIAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T22:33:31.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Views\\RegistroVehiculoes\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ProyectoControlDeParqueos\\Views\\RegistroVehiculoes\\Delete.cshtml",
+              "ToolTip": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Views\\RegistroVehiculoes\\Delete.cshtml",
+              "RelativeToolTip": "ProyectoControlDeParqueos\\Views\\RegistroVehiculoes\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T01:38:38.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Views\\Tarifas\\Details.cshtml",
+              "RelativeDocumentMoniker": "ProyectoControlDeParqueos\\Views\\Tarifas\\Details.cshtml",
+              "ToolTip": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Views\\Tarifas\\Details.cshtml",
+              "RelativeToolTip": "ProyectoControlDeParqueos\\Views\\Tarifas\\Details.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAABBwAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T01:28:15.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Views\\Usuarios\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ProyectoControlDeParqueos\\Views\\Usuarios\\Delete.cshtml",
+              "ToolTip": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Views\\Usuarios\\Delete.cshtml",
+              "RelativeToolTip": "ProyectoControlDeParqueos\\Views\\Usuarios\\Delete.cshtml",
+              "ViewState": "AQIAADIAAAAAAAAAAABBwAwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T22:37:23.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Views\\Tarifas\\Create.cshtml",
+              "RelativeDocumentMoniker": "ProyectoControlDeParqueos\\Views\\Tarifas\\Create.cshtml",
+              "ToolTip": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Views\\Tarifas\\Create.cshtml",
+              "RelativeToolTip": "ProyectoControlDeParqueos\\Views\\Tarifas\\Create.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAiwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T01:13:59.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Views\\Tarifas\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ProyectoControlDeParqueos\\Views\\Tarifas\\Delete.cshtml",
+              "ToolTip": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Views\\Tarifas\\Delete.cshtml",
+              "RelativeToolTip": "ProyectoControlDeParqueos\\Views\\Tarifas\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T01:29:35.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Views\\Usuarios\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ProyectoControlDeParqueos\\Views\\Usuarios\\Edit.cshtml",
+              "ToolTip": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Views\\Usuarios\\Edit.cshtml",
+              "RelativeToolTip": "ProyectoControlDeParqueos\\Views\\Usuarios\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T22:51:03.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Views\\Usuarios\\Create.cshtml",
+              "RelativeDocumentMoniker": "ProyectoControlDeParqueos\\Views\\Usuarios\\Create.cshtml",
+              "ToolTip": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Views\\Usuarios\\Create.cshtml",
+              "RelativeToolTip": "ProyectoControlDeParqueos\\Views\\Usuarios\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T22:48:14.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Views\\Usuarios\\Details.cshtml",
+              "RelativeDocumentMoniker": "ProyectoControlDeParqueos\\Views\\Usuarios\\Details.cshtml",
+              "ToolTip": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Views\\Usuarios\\Details.cshtml",
+              "RelativeToolTip": "ProyectoControlDeParqueos\\Views\\Usuarios\\Details.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAABBwAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T22:54:11.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "20241014202812_Tarifa.cs",
+              "DocumentMoniker": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Migrations\\20241014202812_Tarifa.cs",
+              "RelativeDocumentMoniker": "ProyectoControlDeParqueos\\Migrations\\20241014202812_Tarifa.cs",
+              "ToolTip": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Migrations\\20241014202812_Tarifa.cs",
+              "RelativeToolTip": "ProyectoControlDeParqueos\\Migrations\\20241014202812_Tarifa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T20:28:12.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "20241014202558_RegistroVehiculo.cs",
+              "DocumentMoniker": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Migrations\\20241014202558_RegistroVehiculo.cs",
+              "RelativeDocumentMoniker": "ProyectoControlDeParqueos\\Migrations\\20241014202558_RegistroVehiculo.cs",
+              "ToolTip": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Migrations\\20241014202558_RegistroVehiculo.cs",
+              "RelativeToolTip": "ProyectoControlDeParqueos\\Migrations\\20241014202558_RegistroVehiculo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T20:25:58.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "20241014202345_Parqueos.cs",
+              "DocumentMoniker": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Migrations\\20241014202345_Parqueos.cs",
+              "RelativeDocumentMoniker": "ProyectoControlDeParqueos\\Migrations\\20241014202345_Parqueos.cs",
+              "ToolTip": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Migrations\\20241014202345_Parqueos.cs",
+              "RelativeToolTip": "ProyectoControlDeParqueos\\Migrations\\20241014202345_Parqueos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T20:23:46.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "20241014202054_Usuarios.cs",
+              "DocumentMoniker": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Migrations\\20241014202054_Usuarios.cs",
+              "RelativeDocumentMoniker": "ProyectoControlDeParqueos\\Migrations\\20241014202054_Usuarios.cs",
+              "ToolTip": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Migrations\\20241014202054_Usuarios.cs",
+              "RelativeToolTip": "ProyectoControlDeParqueos\\Migrations\\20241014202054_Usuarios.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T20:20:55.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "ProyectoControlDeParqueos\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ToolTip": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeToolTip": "ProyectoControlDeParqueos\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T21:13:22.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "20240922212613_addMiprimerModelo.cs",
+              "DocumentMoniker": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Migrations\\20240922212613_addMiprimerModelo.cs",
+              "RelativeDocumentMoniker": "ProyectoControlDeParqueos\\Migrations\\20240922212613_addMiprimerModelo.cs",
+              "ToolTip": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Migrations\\20240922212613_addMiprimerModelo.cs",
+              "RelativeToolTip": "ProyectoControlDeParqueos\\Migrations\\20240922212613_addMiprimerModelo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T21:26:14.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "20240922212945_addMiSegundoModelo.cs",
+              "DocumentMoniker": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Migrations\\20240922212945_addMiSegundoModelo.cs",
+              "RelativeDocumentMoniker": "ProyectoControlDeParqueos\\Migrations\\20240922212945_addMiSegundoModelo.cs",
+              "ToolTip": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Migrations\\20240922212945_addMiSegundoModelo.cs",
+              "RelativeToolTip": "ProyectoControlDeParqueos\\Migrations\\20240922212945_addMiSegundoModelo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T21:29:46.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "ProyectoControlDeParqueos\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "ProyectoControlDeParqueos\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAIsAAAAAAAAAAAAswLUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T21:33:34.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "ProyectoControlDeParqueos\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "ProyectoControlDeParqueos\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAuwHUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T21:31:45.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ProyectoControlDeParqueos\\ScaffoldingReadMe.txt",
+              "ToolTip": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ProyectoControlDeParqueos\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-25T21:49:48.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "20240825211606_LoginInit.cs",
+              "DocumentMoniker": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Migrations\\20240825211606_LoginInit.cs",
+              "RelativeDocumentMoniker": "ProyectoControlDeParqueos\\Migrations\\20240825211606_LoginInit.cs",
+              "ToolTip": "D:\\Segundo semestre 2024\\Proyecto de graduacion ll\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\ProyectoControlDeParqueos\\Migrations\\20240825211606_LoginInit.cs",
+              "RelativeToolTip": "ProyectoControlDeParqueos\\Migrations\\20240825211606_LoginInit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T21:16:06.999Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

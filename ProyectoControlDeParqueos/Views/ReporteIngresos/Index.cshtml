@@ -1,0 +1,86 @@
+﻿@model ProyectoControlDeParqueos.Models.ReporteIngresos
+
+<div class="container my-5 p-4 border rounded shadow" style="background-color: white; max-width: 210mm; font-family: Arial, sans-serif;">
+    <div class="text-center mb-4">
+        <h1 class="display-4">Reporte de Ingresos por Tarifa</h1>
+        <p class="lead">Resumen de ingresos generados por tarifas</p>
+        <hr class="my-4">
+        <button onclick="window.print()" class="btn btn-success">Imprimir</button>
+    </div>
+
+    <h2 class="mb-3 text-center">Tarifas y sus Costos</h2>
+    <table class="table table-striped table-bordered table-sm">
+        <thead class="table-dark">
+            <tr>
+                <th>Descripción</th>
+                <th>Costo por Hora (Q)</th>
+                <th>Costo por Día (Q)</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var tarifa in Model.Tarifas)
+            {
+                <tr>
+                    <td>@tarifa.descripcion</td>
+                    <td>@tarifa.costoPorHora.ToString("F2").Replace(",", ".")</td> <!-- Formato en quetzales -->
+                    <td>@tarifa.costoPorDia.ToString("F2").Replace(",", ".")</td>   <!-- Formato en quetzales -->
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <h3 class="mt-5 text-center">Total Ingresos Generados: Q @Model.TotalIngresos.ToString("F2").Replace(",", ".")</h3> <!-- Formato en quetzales -->
+</div>
+
+<style>
+    /* Estilos generales para impresión */
+    body {
+        margin: 0;
+        padding: 0;
+        font-family: Arial, sans-serif;
+    }
+
+    .container {
+        max-width: 100%;
+        margin: 0;
+        padding: 10mm;
+        border: none;
+        box-shadow: none;
+    }
+
+    h1, h2, h3 {
+        margin: 0;
+        padding: 0;
+        page-break-after: avoid;
+    }
+
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        page-break-inside: auto;
+    }
+
+    thead {
+        display: table-header-group; /* Mantiene el encabezado en cada página */
+    }
+
+    th, td {
+        border: 1px solid #ddd;
+        padding: 8px;
+        text-align: left;
+    }
+
+    th {
+        background-color: #f8f9fa; /* Color de fondo para encabezados */
+    }
+
+    tr {
+        page-break-inside: avoid; /* Evita el salto de página dentro de una fila */
+        page-break-after: auto; /* Permite que las filas sigan en la misma página */
+    }
+
+    /* Estilo adicional para centrar el contenido */
+    .text-center {
+        text-align: center;
+    }
+</style>

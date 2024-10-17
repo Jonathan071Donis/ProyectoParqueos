@@ -1,0 +1,145 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<!-- Estilo de la página -->
+<style>
+    body {
+        margin: 0;
+        height: 100vh;
+        display: flex;
+        flex-direction: column;
+        overflow: hidden;
+    }
+
+    #main-container {
+        flex: 1;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        position: relative;
+    }
+
+    #dashboard {
+        background-color: rgba(255, 255, 255, 0.8);
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+        z-index: 10;
+        position: relative;
+        overflow: visible;
+    }
+</style>
+
+<div id="main-container">
+    <div class="text-center" id="dashboard">
+        <h1 class="display-4">Bienvenidos al Parqueo El Patron</h1>
+
+        <div style="margin-top: 20px; display: flex; justify-content: space-around;">
+            <div style="width: 30%;">
+                <canvas id="occupancyChart" width="400" height="200"></canvas>
+                <h5>Porcentaje de Ocupación</h5>
+            </div>
+            <div style="width: 30%;">
+                <canvas id="vehiclesChart" width="400" height="200"></canvas>
+                <h5>Vehículos Ingresados Hoy</h5>
+            </div>
+            <div style="width: 30%;">
+                <canvas id="tariffsChart" width="400" height="200"></canvas>
+                <h5>Tarifas Activas</h5>
+            </div>
+            <div style="width: 30%;">
+                <canvas id="usersChart" width="400" height="200"></canvas>
+                <h5>Usuarios Activos</h5>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Include Chart.js -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+    let colors = [
+        ['rgba(75, 192, 192, 0.2)', 'rgba(255, 99, 132, 0.2)'],
+        ['rgba(153, 102, 255, 0.2)', 'rgba(255, 159, 64, 0.2)'],
+        ['rgba(255, 206, 86, 0.2)', 'rgba(54, 162, 235, 0.2)']
+    ];
+
+    let ocupacion = 75;
+    let vehiculosIngresadosHoy = 10;
+    let tarifasActivas = 3;
+    let usuariosActivos = 5;
+    let colorIndex = 0;
+
+    function updateData() {
+        ocupacion = Math.floor(Math.random() * 100);
+        vehiculosIngresadosHoy = Math.floor(Math.random() * 20);
+        tarifasActivas = Math.floor(Math.random() * 10);
+        usuariosActivos = Math.floor(Math.random() * 10);
+
+        colorIndex = (colorIndex + 1) % colors.length; // Cicla los colores
+        renderCharts();
+    }
+
+    function renderCharts() {
+        const occupancyData = {
+            labels: ['Ocupación'],
+            datasets: [{
+                label: 'Porcentaje de Ocupación',
+                data: [ocupacion, 100 - ocupacion],
+                backgroundColor: colors[colorIndex],
+                borderColor: colors[colorIndex].map(c => c.replace('0.2', '1')),
+                borderWidth: 2,
+                hoverOffset: 4,  // Efecto 3D al hacer hover
+                borderDash: [5, 5]
+            }]
+        };
+
+        const vehiclesData = {
+            labels: ['Vehículos Ingresados', 'No Ingresados'],
+            datasets: [{
+                label: 'Total de Vehículos',
+                data: [vehiculosIngresadosHoy, 20 - vehiculosIngresadosHoy],
+                backgroundColor: colors[(colorIndex + 1) % colors.length],
+                borderColor: colors[(colorIndex + 1) % colors.length].map(c => c.replace('0.2', '1')),
+                borderWidth: 2,
+                hoverOffset: 4,
+                borderDash: [5, 5]
+            }]
+        };
+
+        const tariffsData = {
+            labels: ['Tarifas Activas', 'Tarifas Inactivas'],
+            datasets: [{
+                label: 'Cantidad de Tarifas',
+                data: [tarifasActivas, 10 - tarifasActivas],
+                backgroundColor: colors[(colorIndex + 2) % colors.length],
+                borderColor: colors[(colorIndex + 2) % colors.length].map(c => c.replace('0.2', '1')),
+                borderWidth: 2,
+                hoverOffset: 4,
+                borderDash: [5, 5]
+            }]
+        };
+
+        const usersData = {
+            labels: ['Usuarios Activos', 'Usuarios Inactivos'],
+            datasets: [{
+                label: 'Cantidad de Usuarios',
+                data: [usuariosActivos, 10 - usuariosActivos],
+                backgroundColor: colors[(colorIndex + 3) % colors.length],
+                borderColor: colors[(colorIndex + 3) % colors.length].map(c => c.replace('0.2', '1')),
+                borderWidth: 2,
+                hoverOffset: 4,
+                borderDash: [5, 5]
+            }]
+        };
+
+        new Chart(document.getElementById('occupancyChart'), { type: 'doughnut', data: occupancyData });
+        new Chart(document.getElementById('vehiclesChart'), { type: 'doughnut', data: vehiclesData });
+        new Chart(document.getElementById('tariffsChart'), { type: 'doughnut', data: tariffsData });
+        new Chart(document.getElementById('usersChart'), { type: 'doughnut', data: usersData });
+    }
+
+    renderCharts();
+    setInterval(updateData, 5000);
+</script>
